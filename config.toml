@@ -1,6 +1,6 @@
 # Main settings
 theme = "simplify"
-base_url = "https://simplify-zola.netlify.app/"
+base_url = "https://sha.ne"
 title = "Simplify"
 description = "Simplify is a Zola theme built with simple.css"
 default_language = "en"
@@ -35,7 +35,7 @@ menu = [
     { name = "Tags", url = "/tags/" },
     { name = "Categories", url = "/categories/" },
     { name = "Feed", url = "/atom.xml/" },
-    { name = "Github", url = "https:/github.com/tarunjana" }
+    { name = "Github", url = "https://github.com/shauder" }
 ]
 # Avatar at homepage
 avatar_url = "/img/profile.jpg"
